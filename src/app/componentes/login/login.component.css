@@ -24,6 +24,10 @@ label{
   color: #8707ff;
 }
 
+p{
+  color: #8707ff;
+}
+
 .form-container {
   display: flex;
   flex-direction: column;
